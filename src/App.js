@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Godines
+          Another something
         </a>
       </header>
     </div>
