@@ -1,7 +1,9 @@
 import React from "react";
 
 function ShoppingMode (){
-    <div></div>
+    return (
+        <div>Modo Shopping</div>
+    )
 }
 
 export default ShoppingMode;

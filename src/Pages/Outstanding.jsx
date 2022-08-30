@@ -1,8 +1,9 @@
 import React from "react";
 
 function Outstanding (){
-    <div></div>
-
+    return (
+        <div>historial</div>
+    )
 }
 
 export default Outstanding;

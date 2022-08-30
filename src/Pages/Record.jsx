@@ -1,7 +1,9 @@
 import React from "react";
 
 function Record (){
-    <div></div>
+    return (
+        <div>Destacado</div>
+    )
 }
 
 export default Record;

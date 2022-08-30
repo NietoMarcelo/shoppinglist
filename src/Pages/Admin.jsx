@@ -1,7 +1,9 @@
 import React from "react";
 
 function Admin (){
-    <div></div>
+    return (
+        <div>Agregar Producto</div>
+    )
 }
 
 export default Admin;

@@ -1,7 +1,9 @@
 import React from "react";
 
 function Register (){
-    <div></div>
+    return (
+        <div>Registrarse</div>
+    )
 }
 
 export default Register;

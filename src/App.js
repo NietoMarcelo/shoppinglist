@@ -1,11 +1,13 @@
 import './App.css';
-import { Button } from 'react-bootstrap';
+
+//routes
+import RoutesLogComponent from './Routes/Routes';
 
 function App() {
   return (
-    <div className="App">
-      <Button variant="danger">Now we have bootstrap 5 installed</Button>
-    </div>
+      <div className="App">
+        <RoutesLogComponent></RoutesLogComponent>
+      </div>
   );
 }
 

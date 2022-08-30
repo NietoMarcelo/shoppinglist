@@ -1,7 +1,9 @@
 import React from "react";
 
 function ViewLists (){
-    <div></div>
+    return (
+        <div>Ver listas</div>
+    )
 }
 
 export default ViewLists;

@@ -1,7 +1,9 @@
 import React from "react";
 
 function CreateEdit (){
-    <div></div>
+    return (
+        <div>Crear / Editar</div>
+    )
 }
 
 export default CreateEdit;
