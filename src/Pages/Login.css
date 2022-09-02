@@ -1,0 +1,21 @@
+.logo {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.logo img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+
+.centerCard {
+    display: flex;
+    justify-content: center;
+}
+
+.footerButtons {
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+}
